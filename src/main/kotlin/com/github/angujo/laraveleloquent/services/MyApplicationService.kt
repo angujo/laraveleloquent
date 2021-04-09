@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.angujo.laraveleloquent.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.angujo.laraveleloquent.MyBundle
 
 class MyApplicationService {
 
